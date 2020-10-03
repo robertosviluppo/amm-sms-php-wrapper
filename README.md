@@ -3,6 +3,8 @@ AMM SMS Php Api Wrapper
 
 | CI - CD | Status |
 | ------- | ------ |
+| Travis CI | [![Build Status](https://travis-ci.com/robertosviluppo/amm-sms-php-wrapper.svg?branch=master)](https://travis-ci.com/robertosviluppo/amm-sms-php-wrapper) |
+| Coveralls | [![Coverage Status](https://coveralls.io/repos/github/robertosviluppo/amm-sms-php-wrapper/badge.svg?branch=master)](https://coveralls.io/github/robertosviluppo/amm-sms-php-wrapper?branch=master) |
 
 All product and company names are trademarks or registered trademarks of their respective holders.
 Use of them does not imply any affiliation with or endorsement by them.
