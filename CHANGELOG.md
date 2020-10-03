@@ -1,4 +1,4 @@
-# Next version
+# 0.1.0
 
 + Add CHANGELOG and README
 + Add composer and other stuffes
